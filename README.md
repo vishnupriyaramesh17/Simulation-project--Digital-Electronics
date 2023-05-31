@@ -1,4 +1,6 @@
-# TITLE
+# TITLE : 8 BIT PARITY GENERATOR USING VERILOG
+
+# AIM 
 Design and generate 8 bit parity generator using Verilog.
 
 # EQUIPMENTS REQUIRED
@@ -52,7 +54,9 @@ An 8-bit parity generator is a digital circuit that generates a parity bit based
 
         endmodule
 
-  
+# RESULT
+
+Thus the synchronous 8 bit parity generator has been implemented in Quartus Prime and output is verified by using Verilog programming through its truth table
 
 # REFERENCE
 https://www.engineersgarage.com/vhdl-tutorial-12-designing-an-8-bit-parity-generator-and-checker-circuits/
